@@ -332,7 +332,7 @@ header>.container>nav>.gnb>li:hover>a,header>.container>nav>.gnb>li>a:focus,head
 
 #skills>.skill>li:nth-child(1) {
     width: 85px;
-    background-image: url(/images/skill/1.sixsigma.jpg);
+    background-image: url(../images/skill/1.sixsigma.jpg);
 }
 
 #skills>.skill>li:nth-child(2) {
