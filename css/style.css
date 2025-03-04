@@ -314,16 +314,16 @@ header>.container>nav>.gnb>li:hover>a,header>.container>nav>.gnb>li>a:focus,head
 }
 
 #skills>.skill {
-    width: 400px;
+    width: 500px;
     margin: 50px auto 20px;
 }
 
 #skills>.skill>li {
     float: left;
     height: 115px;
-    margin-left: 20px;
+    margin-left: 30px;
     text-indent: -9999px;
-    width: 300px; /* width를 명확하게 지정 */
+    width: 400px; /* width를 명확하게 지정 */
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -331,8 +331,7 @@ header>.container>nav>.gnb>li:hover>a,header>.container>nav>.gnb>li>a:focus,head
 }
 
 #skills>.skill>li:nth-child(1) {
-    margin-left: 0;
-    width: 100px;
+    width: 85px;
     background-image: url(/images/front/sixsigma.png);
 }
 
