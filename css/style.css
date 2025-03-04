@@ -332,8 +332,8 @@ header>.container>nav>.gnb>li:hover>a,header>.container>nav>.gnb>li>a:focus,head
 
 #skills>.skill>li:nth-child(1) {
     margin-left: 0;
-    width: 85px;
-    background-image: url(/images/skill/SixSigma.png);
+    width: 100px;
+    background-image: url(/images/front/sixsigma.png);
 }
 
 #skills>.skill>li:nth-child(2) {
@@ -348,7 +348,7 @@ header>.container>nav>.gnb>li:hover>a,header>.container>nav>.gnb>li>a:focus,head
 }
 
 #skills>.skill>li:nth-child(4) {
-    width: 85px;
+    width: 70px;
     background-image: url(../images/front/javascript.png);
 }
 
